@@ -6,15 +6,15 @@ Automated tracker for Arkose Labs `api.js` (used in Roblox, X, Uber, etc.).
 
 | Service | Version | Build ID | Enforcement Hash |
 | --- | --- | --- | --- |
-| roblox_register | 4.4.2 | e7ef722e-2317-446b-a279-8d76bfaf699c | 504897d1cd342e063d4f67d90600cf04 |
-| roblox_login | 4.4.2 | e7ef722e-2317-446b-a279-8d76bfaf699c | 504897d1cd342e063d4f67d90600cf04 |
-| match_login | 4.4.2 | e7ef722e-2317-446b-a279-8d76bfaf699c | 504897d1cd342e063d4f67d90600cf04 |
-| uber_login | 4.4.2 | e7ef722e-2317-446b-a279-8d76bfaf699c | 504897d1cd342e063d4f67d90600cf04 |
-| snapchat_register | 4.4.2 | e7ef722e-2317-446b-a279-8d76bfaf699c | 504897d1cd342e063d4f67d90600cf04 |
-| x_register | 4.4.2 | e7ef722e-2317-446b-a279-8d76bfaf699c | 504897d1cd342e063d4f67d90600cf04 |
-| roblox_join | 4.4.2 | e7ef722e-2317-446b-a279-8d76bfaf699c | 504897d1cd342e063d4f67d90600cf04 |
-| roblox_recovery | 4.4.2 | e7ef722e-2317-446b-a279-8d76bfaf699c | 504897d1cd342e063d4f67d90600cf04 |
-| adobe_register | 4.4.2 | e7ef722e-2317-446b-a279-8d76bfaf699c | 504897d1cd342e063d4f67d90600cf04 |
+| roblox_register | 4.4.2 | 24a782f4-d402-40a7-afb8-43f40d591997 | 162a14c47922edcced45ca4d9b28e5d5 |
+| roblox_login | 4.4.2 | 24a782f4-d402-40a7-afb8-43f40d591997 | 162a14c47922edcced45ca4d9b28e5d5 |
+| match_login | 4.4.2 | 24a782f4-d402-40a7-afb8-43f40d591997 | 162a14c47922edcced45ca4d9b28e5d5 |
+| uber_login | 4.4.2 | 24a782f4-d402-40a7-afb8-43f40d591997 | 162a14c47922edcced45ca4d9b28e5d5 |
+| snapchat_register | 4.4.2 | 24a782f4-d402-40a7-afb8-43f40d591997 | 162a14c47922edcced45ca4d9b28e5d5 |
+| x_register | 4.4.2 | 24a782f4-d402-40a7-afb8-43f40d591997 | 162a14c47922edcced45ca4d9b28e5d5 |
+| roblox_join | 4.4.2 | 24a782f4-d402-40a7-afb8-43f40d591997 | 162a14c47922edcced45ca4d9b28e5d5 |
+| roblox_recovery | 4.4.2 | 24a782f4-d402-40a7-afb8-43f40d591997 | 162a14c47922edcced45ca4d9b28e5d5 |
+| adobe_register | 4.4.2 | 24a782f4-d402-40a7-afb8-43f40d591997 | 162a14c47922edcced45ca4d9b28e5d5 |
 
 ## How it works
 - **Schedule:** Runs every 30 minutes via GitHub Actions.

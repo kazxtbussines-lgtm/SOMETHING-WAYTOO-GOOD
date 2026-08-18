@@ -4,6 +4,13 @@
     "history": [
       {
         "version": "4.4.4",
+        "buildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+        "enforcementHash": "de362fac18daffbc039afce1cebfb8fd",
+        "timestamp": "2026-08-18T04:58:19.977Z",
+        "url": "https://arkoselabs.roblox.com/v2/A2A14B1D-1AF3-C791-9BBC-EE33CC7A0A6F/api.js"
+      },
+      {
+        "version": "4.4.4",
         "buildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
         "enforcementHash": "aa99a12eec615cd2d4ce5ad828c73dc8",
         "timestamp": "2026-08-11T04:45:38.937Z",
@@ -159,12 +166,19 @@
         "url": "https://arkoselabs.roblox.com/v2/A2A14B1D-1AF3-C791-9BBC-EE33CC7A0A6F/api.js"
       }
     ],
-    "latestBuildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
-    "latestEnforcementHash": "aa99a12eec615cd2d4ce5ad828c73dc8"
+    "latestBuildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+    "latestEnforcementHash": "de362fac18daffbc039afce1cebfb8fd"
   },
   "roblox_login": {
     "latest": "4.4.4",
     "history": [
+      {
+        "version": "4.4.4",
+        "buildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+        "enforcementHash": "de362fac18daffbc039afce1cebfb8fd",
+        "timestamp": "2026-08-18T04:58:20.032Z",
+        "url": "https://arkoselabs.roblox.com/v2/476068BF-9607-4799-B53D-966BE98E2B81/api.js"
+      },
       {
         "version": "4.4.4",
         "buildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
@@ -322,12 +336,19 @@
         "url": "https://arkoselabs.roblox.com/v2/476068BF-9607-4799-B53D-966BE98E2B81/api.js"
       }
     ],
-    "latestBuildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
-    "latestEnforcementHash": "aa99a12eec615cd2d4ce5ad828c73dc8"
+    "latestBuildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+    "latestEnforcementHash": "de362fac18daffbc039afce1cebfb8fd"
   },
   "match_login": {
     "latest": "4.4.4",
     "history": [
+      {
+        "version": "4.4.4",
+        "buildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+        "enforcementHash": "de362fac18daffbc039afce1cebfb8fd",
+        "timestamp": "2026-08-18T04:58:20.297Z",
+        "url": "https://client-api.arkoselabs.com/v2/85800716-F435-4981-864C-8B90602D10F7/api.js"
+      },
       {
         "version": "4.4.4",
         "buildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
@@ -485,12 +506,19 @@
         "url": "https://client-api.arkoselabs.com/v2/85800716-F435-4981-864C-8B90602D10F7/api.js"
       }
     ],
-    "latestBuildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
-    "latestEnforcementHash": "aa99a12eec615cd2d4ce5ad828c73dc8"
+    "latestBuildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+    "latestEnforcementHash": "de362fac18daffbc039afce1cebfb8fd"
   },
   "uber_login": {
     "latest": "4.4.4",
     "history": [
+      {
+        "version": "4.4.4",
+        "buildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+        "enforcementHash": "de362fac18daffbc039afce1cebfb8fd",
+        "timestamp": "2026-08-18T04:58:20.498Z",
+        "url": "https://ak04a6qc.uber.com/v2/30000F36-CADF-490C-929A-C6A7DD8B33C4/api.js"
+      },
       {
         "version": "4.4.4",
         "buildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
@@ -648,8 +676,8 @@
         "url": "https://ak04a6qc.uber.com/v2/30000F36-CADF-490C-929A-C6A7DD8B33C4/api.js"
       }
     ],
-    "latestBuildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
-    "latestEnforcementHash": "aa99a12eec615cd2d4ce5ad828c73dc8"
+    "latestBuildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+    "latestEnforcementHash": "de362fac18daffbc039afce1cebfb8fd"
   },
   "snapchat_register": {
     "latest": "4.4.2",
@@ -782,6 +810,13 @@
   "x_register": {
     "latest": "4.4.4",
     "history": [
+      {
+        "version": "4.4.4",
+        "buildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+        "enforcementHash": "de362fac18daffbc039afce1cebfb8fd",
+        "timestamp": "2026-08-18T04:58:20.742Z",
+        "url": "https://client-api.arkoselabs.com/v2/2CB16598-CB82-4CF7-B332-5990DB66F3AB/api.js"
+      },
       {
         "version": "4.4.4",
         "buildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
@@ -939,12 +974,19 @@
         "url": "https://client-api.arkoselabs.com/v2/2CB16598-CB82-4CF7-B332-5990DB66F3AB/api.js"
       }
     ],
-    "latestBuildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
-    "latestEnforcementHash": "aa99a12eec615cd2d4ce5ad828c73dc8"
+    "latestBuildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+    "latestEnforcementHash": "de362fac18daffbc039afce1cebfb8fd"
   },
   "roblox_join": {
     "latest": "4.4.4",
     "history": [
+      {
+        "version": "4.4.4",
+        "buildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+        "enforcementHash": "de362fac18daffbc039afce1cebfb8fd",
+        "timestamp": "2026-08-18T04:58:20.051Z",
+        "url": "https://arkoselabs.roblox.com/v2/CC30DB96-0C88-4DEB-86E5-6601927ACBB4/api.js"
+      },
       {
         "version": "4.4.4",
         "buildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
@@ -1086,12 +1128,19 @@
         "url": "https://arkoselabs.roblox.com/v2/CC30DB96-0C88-4DEB-86E5-6601927ACBB4/api.js"
       }
     ],
-    "latestBuildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
-    "latestEnforcementHash": "aa99a12eec615cd2d4ce5ad828c73dc8"
+    "latestBuildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+    "latestEnforcementHash": "de362fac18daffbc039afce1cebfb8fd"
   },
   "roblox_recovery": {
     "latest": "4.4.4",
     "history": [
+      {
+        "version": "4.4.4",
+        "buildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+        "enforcementHash": "de362fac18daffbc039afce1cebfb8fd",
+        "timestamp": "2026-08-18T04:58:20.106Z",
+        "url": "https://arkoselabs.roblox.com/v2/476068BF-9607-4799-B53D-966BE98E2B81/api.js"
+      },
       {
         "version": "4.4.4",
         "buildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
@@ -1233,12 +1282,19 @@
         "url": "https://arkoselabs.roblox.com/v2/476068BF-9607-4799-B53D-966BE98E2B81/api.js"
       }
     ],
-    "latestBuildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
-    "latestEnforcementHash": "aa99a12eec615cd2d4ce5ad828c73dc8"
+    "latestBuildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+    "latestEnforcementHash": "de362fac18daffbc039afce1cebfb8fd"
   },
   "adobe_register": {
     "latest": "4.4.4",
     "history": [
+      {
+        "version": "4.4.4",
+        "buildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+        "enforcementHash": "de362fac18daffbc039afce1cebfb8fd",
+        "timestamp": "2026-08-18T04:58:20.931Z",
+        "url": "https://arks-client.adobe.com/v2/436DD567-5435-4B14-89A6-2F1188E11334/api.js"
+      },
       {
         "version": "4.4.4",
         "buildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
@@ -1373,7 +1429,7 @@
         "url": "https://arks-client.adobe.com/v2/436DD567-5435-4B14-89A6-2F1188E11334/api.js"
       }
     ],
-    "latestBuildId": "c30fcda5-d788-40f0-965e-02f7b7ab1931",
-    "latestEnforcementHash": "aa99a12eec615cd2d4ce5ad828c73dc8"
+    "latestBuildId": "0afe959d-bfb5-434f-be6e-6fd49240a55b",
+    "latestEnforcementHash": "de362fac18daffbc039afce1cebfb8fd"
   }
 }

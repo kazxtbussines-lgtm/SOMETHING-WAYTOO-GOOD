@@ -6,15 +6,15 @@ Automated tracker for Arkose Labs `api.js` (used in Roblox, X, Uber, etc.).
 
 | Service | Version | Build ID | Enforcement Hash |
 | --- | --- | --- | --- |
-| roblox_register | 4.5.0 | e85b34b3-6ddf-4789-9cd7-eecbb0cf0c3d | ca3b41bdbcb85e7c7fb7892a970c52e8 |
-| roblox_login | 4.5.0 | e85b34b3-6ddf-4789-9cd7-eecbb0cf0c3d | ca3b41bdbcb85e7c7fb7892a970c52e8 |
-| match_login | 4.5.0 | e85b34b3-6ddf-4789-9cd7-eecbb0cf0c3d | ca3b41bdbcb85e7c7fb7892a970c52e8 |
-| uber_login | 4.5.0 | e85b34b3-6ddf-4789-9cd7-eecbb0cf0c3d | ca3b41bdbcb85e7c7fb7892a970c52e8 |
+| roblox_register | 4.5.0 | 5906107b-260e-4e5b-9ce9-202af1b2b937 | 1e5602ce51cc60bd0dda843d2a8e5670 |
+| roblox_login | 4.5.0 | 5906107b-260e-4e5b-9ce9-202af1b2b937 | 1e5602ce51cc60bd0dda843d2a8e5670 |
+| match_login | 4.5.0 | 5906107b-260e-4e5b-9ce9-202af1b2b937 | 1e5602ce51cc60bd0dda843d2a8e5670 |
+| uber_login | 4.5.0 | 5906107b-260e-4e5b-9ce9-202af1b2b937 | 1e5602ce51cc60bd0dda843d2a8e5670 |
 | snapchat_register | 4.4.2 | 719702df-f02c-490a-b25b-636f30148a1c | 9775dee111b6f5b2341a8bdde2d8f28f |
-| x_register | 4.5.0 | e85b34b3-6ddf-4789-9cd7-eecbb0cf0c3d | ca3b41bdbcb85e7c7fb7892a970c52e8 |
-| roblox_join | 4.5.0 | e85b34b3-6ddf-4789-9cd7-eecbb0cf0c3d | ca3b41bdbcb85e7c7fb7892a970c52e8 |
-| roblox_recovery | 4.5.0 | e85b34b3-6ddf-4789-9cd7-eecbb0cf0c3d | ca3b41bdbcb85e7c7fb7892a970c52e8 |
-| adobe_register | 4.5.0 | e85b34b3-6ddf-4789-9cd7-eecbb0cf0c3d | ca3b41bdbcb85e7c7fb7892a970c52e8 |
+| x_register | 4.5.0 | 5906107b-260e-4e5b-9ce9-202af1b2b937 | 1e5602ce51cc60bd0dda843d2a8e5670 |
+| roblox_join | 4.5.0 | 5906107b-260e-4e5b-9ce9-202af1b2b937 | 1e5602ce51cc60bd0dda843d2a8e5670 |
+| roblox_recovery | 4.5.0 | 5906107b-260e-4e5b-9ce9-202af1b2b937 | 1e5602ce51cc60bd0dda843d2a8e5670 |
+| adobe_register | 4.5.0 | 5906107b-260e-4e5b-9ce9-202af1b2b937 | 1e5602ce51cc60bd0dda843d2a8e5670 |
 
 ## How it works
 - **Schedule:** Runs every 30 minutes via GitHub Actions.
